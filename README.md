@@ -1,2 +1,3 @@
-# SDU_2023_homework_group_117
-202100460157-刘嘉梁
+# Innovation_and_Entrepreneurship_Practice_Course_2023
+Group_117
+202100460157_刘嘉梁
