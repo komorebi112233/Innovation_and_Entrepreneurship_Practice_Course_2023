@@ -1,10 +1,23 @@
 # Innovation_and_Entrepreneurship_Practice_Course_2023
 Group_117_刘嘉梁_202100460157
-
+## 总体说明
 所有项目均由一人完成
 
 每个文件夹里都有DOCX或md，用于文字说明
+## 环境
+Windows 11
 
+处理器：12th Gen Intel(R) Core(TM) i9-12900H   2.50 GHz
+
+机带RAM：16.0 GB (15.7 GB 可用)
+
+系统类型：64 位操作系统, 基于 x64 的处理器
+
+IDLE (Python 3.11 64-bit)         
+
+Visual Studio 2022
+
+## project 目录
 [*Project1: implement the naïve birthday attack of reduced SM3]
 (https://github.com/komorebi112233/Innovation_and_Entrepreneurship_Practice_Course_2023/tree/main/project_1)
 
@@ -59,12 +72,3 @@ Group_117_刘嘉梁_202100460157
 [*Project22: research report on MPT]
 (https://github.com/komorebi112233/Innovation_and_Entrepreneurship_Practice_Course_2023/tree/main/project_22)
 
-## 所有project运行环境相同
-
-win11 
-
-处理器：12th Gen Intel(R) Core(TM) i9-12900H   2.50 GHz
-
-机带RAM：16.0 GB (15.7 GB 可用)
-
-IDLE (Python 3.11 64-bit)
