@@ -56,8 +56,8 @@ Group_117_刘嘉梁_202100460157
 [*Project20: ECMH PoC]
 (https://github.com/komorebi112233/Innovation_and_Entrepreneurship_Practice_Course_2023/tree/main/project_20)
 
-*Project21: Schnorr Bacth
-*Project22: research report on MPT
+[*Project22: research report on MPT]
+(https://github.com/komorebi112233/Innovation_and_Entrepreneurship_Practice_Course_2023/tree/main/project_22)
 
 ## 所有project运行环境相同
 
