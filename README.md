@@ -1,5 +1,5 @@
 # Innovation_and_Entrepreneurship_Practice_Course_2023
-Group_117_刘嘉梁_202100460157
+Group_117_刘嘉梁_202100460157_
 
 每个文件夹里都有DOCX文档，用于文字说明
 
