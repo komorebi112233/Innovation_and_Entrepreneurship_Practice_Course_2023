@@ -1,11 +1,13 @@
 # Innovation_and_Entrepreneurship_Practice_Course_2023
 
 ## 总体说明
+group117-刘嘉梁-202100460157
+
 所有项目均由一人完成
 
 每个文件夹里都有DOCX或md，用于文字说明
 ## 环境
-Windows 11
+Windows 11 
 
 处理器：12th Gen Intel(R) Core(TM) i9-12900H   2.50 GHz
 
